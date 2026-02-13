@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679520831480",
+    "project_id": "uni-canteen-hackathon",
+    "storage_bucket": "uni-canteen-hackathon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679520831480:android:4a9a51e9048040d199f80d",
+        "android_client_info": {
+          "package_name": "com.example.canteen_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoz9yI03xLL_4nXOQARpEkCAzW40oIHYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
